@@ -1,7 +1,7 @@
 ---
 banner:
   title: NewAtlantic
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus.
+  content: Công ty Cổ phần Thương mại Quốc tế Tân Đại Tây Dương, thành lập ngày 14/05/2003, với nỗ lực không ngừng đã phát triển từ một doanh nghiệp nhỏ thành một công ty uy tín trong và ngoài nước. Với doanh thu nhiều năm nằm trong top 5 doanh nghiệp lớn nhất tại Quận 7, TP. Hồ Chí Minh.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
