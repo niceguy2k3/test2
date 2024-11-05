@@ -22,7 +22,7 @@ const Contact = ({ data }) => {
                   className="form-input w-full rounded"
                   name="name"
                   type="text"
-                  placeholder="Name"
+                  placeholder="Tên"
                   required
                 />
               </div>
@@ -31,7 +31,7 @@ const Contact = ({ data }) => {
                   className="form-input w-full rounded"
                   name="email"
                   type="email"
-                  placeholder="Your email"
+                  placeholder="Email"
                   required
                 />
               </div>
@@ -40,7 +40,7 @@ const Contact = ({ data }) => {
                   className="form-input w-full rounded"
                   name="subject"
                   type="text"
-                  placeholder="Subject"
+                  placeholder="Tiêu đề"
                   required
                 />
               </div>
@@ -48,7 +48,7 @@ const Contact = ({ data }) => {
                 <textarea
                   className="form-textarea w-full rounded-md"
                   rows="7"
-                  placeholder="Your message"
+                  placeholder="Lời nhắn"
                 />
               </div>
               <button type="submit" className="btn btn-primary">
