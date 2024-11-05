@@ -9,6 +9,9 @@ faqs:
 - title: WORLDWIDE PARTNERSHIPS
   answer: Nhờ vào sự hợp tác chặt chẽ và hiệu quả với các đối tác chiến lược tại các thị trường quan trọng như Bắc Mỹ, Châu Âu, Châu Á và Trung Đông, chúng tôi có khả năng cung cấp các giải pháp và dịch vụ tiên tiến, đáp ứng nhu cầu đa dạng của khách hàng toàn cầu.
 
+- title: DỊCH VỤ NỔI BẬT
+  answer: Thiết bị PCCC – Thiết bị Điện – Thiết bị chuyên dùng
+  
 - title: TRỤ SỞ CHÍNH – VP HCM
   answer: A60 PHÚ THUẬN, PHƯỜNG PHÚ THUẬN, QUẬN 7, TP HCM
 
@@ -17,4 +20,5 @@ faqs:
 
 - title: CHI NHÁNH MIỀN TRUNG VP QUẢNG TRỊ
   answer: XÃ TRIỆU GIANG, HUYỆN TRIỆU PHONG, TỈNH QUẢNG TRỊ
+
 ---
