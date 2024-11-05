@@ -1,6 +1,6 @@
 ---
 title: "Liên Hệ"
-layout: "Liên Hệ"
+layout: "contact"
 draft: false
 info: 
   title: LIÊN HỆ TRỰC TIẾP 
