@@ -9,6 +9,7 @@ import Link from "next/link";
 const Footer = () => {
   const { copyright, footer_content } = config.params;
   const { footer } = menu;
+
   return (
     <footer className="section bg-theme-light pb-0">
       <div className="container">
@@ -31,8 +32,8 @@ const Footer = () => {
             );
           })}
           {/* social icons */}
-          <div className="md-12 sm:col-6 lg:col-3">
-            <Link href="/" aria-label="Bigspring">
+          <div className="md-12 sm:col-6 lg:col-3 flex flex-col items-center">
+            <Link href="/" aria-label="Bigspring" className="flex justify-center">
               <Image
                 src={config.site.logo}
                 width={config.site.logo_width}
@@ -40,8 +41,10 @@ const Footer = () => {
                 alt=""
               />
             </Link>
-            {markdownify(footer_content, "p", "mt-3 mb-6")}
-            <Social source={social} className="social-icons mb-8" />
+            {markdownify(footer_content, "p", "mt-3 mb-6 text-center")}
+            <div className="flex justify-center w-full">
+              <Social source={social} className="social-icons mb-8" />
+            </div>
           </div>
         </div>
         {/* copyright */}
