@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: WHAT WE DO
 layout: faq
 draft: false
 faqs:
