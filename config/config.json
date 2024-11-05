@@ -2,7 +2,7 @@
   "site": {
     "title": "NewAtlantic",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/logo.png",
     "logo": "/images/logo.png",
     "logo_width": "100",
     "logo_height": "20",
